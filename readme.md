@@ -18,7 +18,7 @@ if(sysstr =="Windows"):
 elif(sysstr == "Linux"):
     print ("Call Linux tasks")
 elif(sysstr == "Darwin"):
-    print ("Call Linux tasks")
+    print ("Call Mac os tasks")
 else:
     print ("Other System tasks")
 ```
